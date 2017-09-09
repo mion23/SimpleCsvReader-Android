@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleCsvReader</string>
+    <string name="pleaseValidFile">Please, select a valid file</string>
+</resources>
